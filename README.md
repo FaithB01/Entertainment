@@ -6,12 +6,11 @@
 
 - Version used : Universal Analytics
 
-- Tracking code is install on every page of the site
-
-![image](https://user-images.githubusercontent.com/78912860/151504161-397bf0a7-48ad-46fc-ab11-3c7066bce47e.png)
-
+- Tracking code is install on every page of the site.
 
 - Track users accessing the site via Realtime report.
+
+![image](https://user-images.githubusercontent.com/78912860/151504161-397bf0a7-48ad-46fc-ab11-3c7066bce47e.png)
 
 - Goal is set to track how many user access the contact page,it is viewd under report conversion
 
